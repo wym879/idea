@@ -16,5 +16,4 @@ http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2017&file
 
 
 ## 图像识别
-基于Tensorflow的交通标志识别 http://www.jianshu.com/p/d8feaddc7bdf  
-https://github.com/waleedka/traffic-signs-tensorflow
+基于Tensorflow的交通标志识别 http://www.jianshu.com/p/d8feaddc7bdf  源码：https://github.com/waleedka/traffic-signs-tensorflow
