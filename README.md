@@ -20,3 +20,6 @@ http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2017&file
 
 ## 图像识别
 基于Tensorflow的交通标志识别 http://www.jianshu.com/p/d8feaddc7bdf  源码：https://github.com/waleedka/traffic-signs-tensorflow
+
+## 图片语义分析
+语义分析的一些方法(三) http://www.flickering.cn/ads/2015/02/%e8%af%ad%e4%b9%89%e5%88%86%e6%9e%90%e7%9a%84%e4%b8%80%e4%ba%9b%e6%96%b9%e6%b3%95%e4%b8%89/
