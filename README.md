@@ -12,6 +12,8 @@ https://arxiv.org/pdf/1706.06064.pdf
 
 CVPR2015的论文《Deep Learning of Binary Hash Codes for Fast Image Retrieval》实现的海量数据下的基于内容图片检索系统，250w图片下，对于给定图片，检索top 1000相似时间约为1s 教程：http://blog.csdn.net/han_xiaoyang/article/details/50856583 源码：https://github.com/kevinlin311tw/caffe-cvprw15
 
+Image Retrieval(CSDN)
+http://m.blog.csdn.net/flowerboya/article/details/72858464
 
 ## 图标标注
 基于迁移学习与深度卷积特征的图像标注方法研究 
