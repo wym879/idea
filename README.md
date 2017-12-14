@@ -2,6 +2,7 @@
 webar-->传图-->图像检索：基于内容的检索（深度高层特征+哈希检索）推荐
 1. https://imatge-upc.github.io/retrieval-2016-icmr/
 2. http://imatge-upc.github.io/retrieval-2016-deepvision/
+3. 团队主页： https://github.com/imatge-upc
 
 ## 图像检索
 DeepFashion︱衣物时尚元素关键点定位+时尚元素对齐技术
