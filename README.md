@@ -4,6 +4,12 @@ webar-->传图-->图像检索：基于内容的检索（深度高层特征+哈�
 2. http://imatge-upc.github.io/retrieval-2016-deepvision/
 3. 团队主页： https://github.com/imatge-upc
 
+
+Exploiting Local Features from Deep Networks for Image Retrieval （CVPR 2015 workshop）
+这篇文章发表在CVPR 2015 workshop上，是来自于马里兰大学帕克学院Joe Yue-Hei Ng等人的工作。近期的很多研究工作表明，相比于全相连层的输出，卷积层的特征图谱（feature map）更适用于实例搜索。本篇文章介绍了如何将卷积层的特征图谱转化为“局部特征”，并使用VLAD将其编码为图像特征。另外，作者还进行了一系列的相关试验去观察不同卷积层的特征图谱对实例搜索准确率的影响。
+
+
+
 ## 图像检索
 DeepFashion︱衣物时尚元素关键点定位+时尚元素对齐技术
 http://blog.csdn.net/sinat_26917383/article/details/63682987
