@@ -39,4 +39,4 @@ http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2017&file
 ## 细粒度的识别: Fine-grained Recognition
 
 ## 图像标注/语义标注：Semantic Annotation
-1. 基于深度学习的图像语义标注与描述研究
+1. 基于深度学习的图像语义标注与描述研究 https://github.com/dr-weiyiming/idea/blob/master/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%9B%BE%E5%83%8F%E8%AF%AD%E4%B9%89%E6%A0%87%E6%B3%A8%E4%B8%8E%E6%8F%8F%E8%BF%B0%E7%A0%94%E7%A9%B6_%E9%83%91%E6%B0%B8%E5%93%B2.caj
