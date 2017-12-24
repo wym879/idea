@@ -37,4 +37,4 @@ http://m.blog.csdn.net/flowerboya/article/details/72858464
 1. 基于迁移学习与深度卷积特征的图像标注方法研究 
 http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2017&filename=1017119555.nh&uid=WEEvREcwSlJHSldRa1FhcTdWZDhMQ0V6aHdlbDJNNDFrejBiMmVQR3hIZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MjExNDIxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkwyZVplZHNGQ25rVTdyQlZGMjZHYks1RjlUSnFwRWJQSVI4ZVg=
 2. 基于深度学习的图像语义标注与描述研究 https://github.com/dr-weiyiming/idea/blob/master/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%9B%BE%E5%83%8F%E8%AF%AD%E4%B9%89%E6%A0%87%E6%B3%A8%E4%B8%8E%E6%8F%8F%E8%BF%B0%E7%A0%94%E7%A9%B6_%E9%83%91%E6%B0%B8%E5%93%B2.caj
-idea/pic/三层语义模型.jpg 
+![Image text](idea/pic/三层语义模型.jpg) 
