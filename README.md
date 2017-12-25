@@ -25,6 +25,15 @@ CVPR2015的论文《Deep Learning of Binary Hash Codes for Fast Image Retrieval�
 Image Retrieval(CSDN)
 http://m.blog.csdn.net/flowerboya/article/details/72858464
 
+Learning Deep Representations of Fine-grained Visual Descriptions
+    intro: CVPR 2016
+    arxiv: http://arxiv.org/abs/1605.05395
+    github: https://github.com/reedscot/cvpr2016
+
+## 图像分类
+Traffic-Sign Detection and Classification in the Wild 路标检测分类
+http://cg.cs.tsinghua.edu.cn/traffic-sign/
+
 ## 图像识别
 基于Tensorflow的交通标志识别 http://www.jianshu.com/p/d8feaddc7bdf  源码：https://github.com/waleedka/traffic-signs-tensorflow
 
