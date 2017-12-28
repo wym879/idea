@@ -56,3 +56,7 @@ http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2017&file
 
 ## 语义嵌入：Semantic Embedding
 统一化视觉语义嵌入与多模态神经语言模型: https://segmentfault.com/a/1190000004890723
+
+## 迁移学习
+CNTK 301: Image Recognition with Deep Transfer Learning
+https://cntk.ai/pythondocs/CNTK_301_Image_Recognition_with_Deep_Transfer_Learning.html
