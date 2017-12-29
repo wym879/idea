@@ -60,3 +60,7 @@ http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2017&file
 ## 迁移学习
 CNTK 301: Image Recognition with Deep Transfer Learning
 https://cntk.ai/pythondocs/CNTK_301_Image_Recognition_with_Deep_Transfer_Learning.html
+
+
+## 不容错过的2017数据科学15大热门GitHub项目
+https://yq.aliyun.com//articles/316795
