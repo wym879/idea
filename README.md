@@ -1,3 +1,10 @@
+相关：
+https://www.logograb.com/solutions/for-tech-companies/
+
+
+
+
+
 # idea
 webar-->传图-->图像检索：基于内容的检索（深度高层特征+哈希检索）推荐
 1. https://imatge-upc.github.io/retrieval-2016-icmr/
