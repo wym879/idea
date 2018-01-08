@@ -10,7 +10,7 @@ webar-->传图-->图像检索：基于内容的检索（深度高层特征+哈�
 1. https://imatge-upc.github.io/retrieval-2016-icmr/
 2. http://imatge-upc.github.io/retrieval-2016-deepvision/
 3. 团队主页： https://github.com/imatge-upc
-4. Where to Buy It: Matching Street Clothing Photos in Online Shops
+4. Where to Buy It: Matching Street Clothing Photos in Online Shops https://github.com/flipkart-incubator/fk-visual-search
 5. Deep Learning based Large Scale Visual Recommendation and Search for  E-Commerce
 
 Exploiting Local Features from Deep Networks for Image Retrieval （CVPR 2015 workshop）
