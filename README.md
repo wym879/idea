@@ -17,6 +17,17 @@ Exploiting Local Features from Deep Networks for Image Retrieval （CVPR 2015 wo
 这篇文章发表在CVPR 2015 workshop上，是来自于马里兰大学帕克学院Joe Yue-Hei Ng等人的工作。近期的很多研究工作表明，相比于全相连层的输出，卷积层的特征图谱（feature map）更适用于实例搜索。本篇文章介绍了如何将卷积层的特征图谱转化为“局部特征”，并使用VLAD将其编码为图像特征。另外，作者还进行了一系列的相关试验去观察不同卷积层的特征图谱对实例搜索准确率的影响。
 
 
+## 显著性/视觉注意机制
+MIT Saliency Benchmark http://saliency.mit.edu/results_mit300.html
+
+## 文本检索
+Natural Language Object Retrieval [Paper][Slides][Github] 
+https://github.com/ronghanghu/natural-language-object-retrieval
+https://github.com/andrewliao11/Natural-Language-Object-Retrieval-tensorflow
+
+## 深度哈希
+Learning Compact Binary Descriptors with Unsupervised Deep Neural Networks [Paper][Github]
+https://github.com/kevinlin311tw/cvpr16-deepbit
 
 ## 图像检索
 DeepFashion︱衣物时尚元素关键点定位+时尚元素对齐技术
@@ -60,13 +71,6 @@ http://www.micc.unifi.it/tagsurvey/
 http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2017&filename=1017119555.nh&uid=WEEvREcwSlJHSldRa1FhcTdWZDhMQ0V6aHdlbDJNNDFrejBiMmVQR3hIZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MjExNDIxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkwyZVplZHNGQ25rVTdyQlZGMjZHYks1RjlUSnFwRWJQSVI4ZVg=
 2. 基于深度学习的图像语义标注与描述研究 https://github.com/dr-weiyiming/idea/blob/master/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%9B%BE%E5%83%8F%E8%AF%AD%E4%B9%89%E6%A0%87%E6%B3%A8%E4%B8%8E%E6%8F%8F%E8%BF%B0%E7%A0%94%E7%A9%B6_%E9%83%91%E6%B0%B8%E5%93%B2.caj
 
-## 显著性/视觉注意机制
-MIT Saliency Benchmark http://saliency.mit.edu/results_mit300.html
-
-## 文本检索
-Natural Language Object Retrieval [Paper][Slides][Github] 
-https://github.com/ronghanghu/natural-language-object-retrieval
-https://github.com/andrewliao11/Natural-Language-Object-Retrieval-tensorflow
 
 ## 语义嵌入：Semantic Embedding
 统一化视觉语义嵌入与多模态神经语言模型: https://segmentfault.com/a/1190000004890723
