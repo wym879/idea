@@ -64,7 +64,9 @@ http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2017&file
 MIT Saliency Benchmark http://saliency.mit.edu/results_mit300.html
 
 ## 文本检索
-Natural Language Object Retrieval [Paper][Slides] 
+Natural Language Object Retrieval [Paper][Slides][Github] 
+https://github.com/ronghanghu/natural-language-object-retrieval
+https://github.com/andrewliao11/Natural-Language-Object-Retrieval-tensorflow
 
 ## 语义嵌入：Semantic Embedding
 统一化视觉语义嵌入与多模态神经语言模型: https://segmentfault.com/a/1190000004890723
